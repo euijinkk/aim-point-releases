@@ -1,17 +1,10 @@
-# Aim Point Downloads
+# Aim Point
 
-Aim Point macOS 다운로드 전용 저장소입니다. 앱 소스 코드는 포함하지 않습니다.
+[**Mac용 다운로드**](https://github.com/euijinkk/aim-point-releases/releases/download/v0.1.0/Aim-Point-0.1.0-arm64.dmg)
 
-## 다운로드
+macOS 14 이상 · Apple Silicon Mac
 
-[**Aim Point 0.1.0 Beta 1 다운로드**](https://github.com/euijinkk/aim-point-releases/releases/download/v0.1.0-beta.1/Aim-Point-0.1.0-beta.1-arm64.dmg)
-
-- macOS 14 이상
-- Apple Silicon Mac
-- 현재 무료 베타
-- Apple Development 서명 적용, Apple 공증 전
-
-## 설치
+## 설치 방법
 
 1. DMG를 열고 `Aim Point Dev`를 Applications 폴더로 옮깁니다.
 2. Applications에서 `Aim Point Dev`를 Control-클릭하고 **열기**를 선택합니다.
